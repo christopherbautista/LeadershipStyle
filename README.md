@@ -56,7 +56,8 @@ Feedback is a gift and helps us grow. Silence doesn’t.
 - If you want something, ask. The worst answer you’ll get is “let’s discuss it later.”
 - Communicate clearly and make your impact visible.
 - Bring passion, curiosity, and initiative.
-- When you see a problem, come with options or approaches.  I will not have all the answers.
+- When you see a problem or friction, come with options or approaches.  I will not have all the answers.
+- Don't accept mediocrity.  If a process or ways of working need to improve, drive the change.  
 - Overcommunication above undercommunication.
 
 ---
