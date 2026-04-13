@@ -16,6 +16,7 @@ Confusion comes from missing context, not bad intentions.
 If something feels off, start with curiosity.
 Ask questions. Seek understanding first.
 I’ll always do the same with you.
+For example, if I'm asking too many questions, its not to challenge your thought process, but to seek understanding and alignment.
 
 ---
 
@@ -23,9 +24,9 @@ I’ll always do the same with you.
 The strongest people I’ve worked with all have a deep sense of ownership.
 To me, that means:
 - Taking initiative without waiting to be asked.
-- Actively understanding how your work supports the team’s goals.
+- Actively understanding how your work supports the team’s and client's goals.
 - Prioritizing the team win over the personal win.
-- Making decisions that connect customer value with sustainable revenue.
+- Making decisions that connect client value with sustainable revenue.
 
 Great work is impactful work, not just completed tasks.
 
@@ -33,6 +34,7 @@ Great work is impactful work, not just completed tasks.
 
 ## How I Make Decisions
 - I optimize for good decisions made at the right time.
+- I am constantly trying to look ahead and try to avoid being reactive.
 - Reflection should focus on what we knew then, not what we know now.
 - Failures are part of learning, and learning is non‑negotiable.
 
